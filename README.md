@@ -36,11 +36,14 @@ Este repositorio recoge la documentación correspondiente a la estancia de prác
 
 ---
 
-## 📂 Recursos
+## 📂 Recursos por alumno
+
+### Adrián Romero Maldonado
 
 | Recurso | Enlace |
 |---------|--------|
-| 📄 Presentación (PDF) | [Abrir presentación](./adrian-presentacion.pdf) |
+| 📄 Presentación (PDF) | [Abrir presentación](./Adrian_Romero_Maldonado-Presentacion_REWE_Digital.pdf) |
+| 🎬 Vídeo de la presentación | [Ver en Google Drive](https://drive.google.com/drive/folders/1gGA6YxkyxdJD3MQ-UV8N391BjxiD_di6?usp=drive_link) |
 
 ---
 
