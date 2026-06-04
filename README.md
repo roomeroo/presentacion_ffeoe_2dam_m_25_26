@@ -36,6 +36,15 @@ Este repositorio recoge la documentación correspondiente a la estancia de prác
 
 ---
 
+## 🎬 Recursos conjuntos
+
+| Recurso | Enlace |
+|---------|--------|
+| 🎥 Vídeo conjunto (los tres alumnos) | [Ver en Google Drive](https://drive.google.com/file/d/17OJJgmVn0L3MSwwfz4q4V5gEJmapQ_rN/view) |
+| 📊 Presentación conjunta | [Ver presentación](https://gamma.app/docs/REWE-Digital-uiu9k0grzfewlti?mode=doc) |
+
+---
+
 ## 📂 Recursos por alumno
 
 ### Adrián Romero Maldonado
