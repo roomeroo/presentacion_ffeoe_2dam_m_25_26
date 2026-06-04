@@ -52,8 +52,8 @@ Este repositorio recoge la documentación correspondiente a la estancia de prác
 
 | Recurso | Enlace |
 |---------|--------|
-| 📄 Presentación (PDF) | https://drive.google.com/file/d/1SBqZYkC9ilxljIHAa1lpoaBrRR05ND0s/view?usp=sharing |
-| 🎬 Vídeo de la presentación | https://drive.google.com/file/d/1quYzGCASWLawnFZ_3WFZ5XIirVT3k0CH/view?usp=sharing |
+| 📄 Presentación (PDF) | [Presentacion PDF](https://drive.google.com/file/d/1SBqZYkC9ilxljIHAa1lpoaBrRR05ND0s/view?usp=sharing) |
+| 🎬 Vídeo de la presentación | [Presentacion VIDEO](https://drive.google.com/file/d/1quYzGCASWLawnFZ_3WFZ5XIirVT3k0CH/view?usp=sharing) |
 
 ---
 
