@@ -42,8 +42,27 @@ Este repositorio recoge la documentación correspondiente a la estancia de prác
 
 | Recurso | Enlace |
 |---------|--------|
-| 📄 Presentación (PDF) | [Abrir presentación](./Adrian_Romero_Maldonado-Presentacion_REWE_Digital.pdf) |
+| 📄 Presentación principal (PDF) | [Abrir presentación](./Adrian_Romero_Maldonado-Presentacion_REWE_Digital.pdf) |
+| 📄 Plan de Sostenibilidad (PDF) | [Abrir presentación](./Adrian_Romero_Maldonado-Plan_Sostenibilidad_REWE_Digital.pdf) |
 | 🎬 Vídeo de la presentación | [Ver en Google Drive](https://drive.google.com/drive/folders/1gGA6YxkyxdJD3MQ-UV8N391BjxiD_di6?usp=drive_link) |
+
+---
+
+### Antonio Lorenzo Cano Jiménez
+
+| Recurso | Enlace |
+|---------|--------|
+| 📄 Presentación (PDF) | *(pendiente)* |
+| 🎬 Vídeo de la presentación | *(pendiente)* |
+
+---
+
+### Samuel Márquez Ruiz
+
+| Recurso | Enlace |
+|---------|--------|
+| 📄 Presentación (PDF) | *(pendiente)* |
+| 🎬 Vídeo de la presentación | *(pendiente)* |
 
 ---
 
